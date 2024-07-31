@@ -28,6 +28,13 @@ Foi incluido o uso de padrões DTO´s, para representar as informações que che
 ---
 
 # 🖥️🛠️ Como usar?
+## Configure seu banco de Dados
+1. É preciso ter baixado o MySQL
+2. Configure no arquivo `application.properties` seu username e senha
+![image](https://github.com/user-attachments/assets/06272e43-3f7f-4a43-bab6-ef1e77a34ed0)
+
+
+# 🌐 Para testar as Rotas
 ## 🛠️ Cadastrar um novo Abrigo:
 1. Acesse a URL: http://localhost:8080/abrigos no API dog, Postman ou Insomnia
 2. Troque o método para `POST`
